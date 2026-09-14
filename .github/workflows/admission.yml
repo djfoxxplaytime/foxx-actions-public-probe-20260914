@@ -1,0 +1,10 @@
+﻿name: Public Actions Admission Probe
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  admission:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo PUBLIC_RUNNER_OK
