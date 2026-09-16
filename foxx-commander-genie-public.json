@@ -1,0 +1,8 @@
+{
+  "v": 1,
+  "keyId": "4e5de7f9382f54c25df3ef1e",
+  "algorithm": "RSA-OAEP-256+A256GCM",
+  "inboxRepo": "djfoxxplaytime/foxx-actions-public-probe-20260914",
+  "issuePrefix": "[FOXX-CMD-V1]",
+  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAxL4LCBl/Vi0X8Dt5gsLb\nd2OfD6G/pWzKyFHS0DsOYNvxz9hqVpf/G8HIz3ndKWiUgPXUQU659YNPjpRB82uE\nJwgOV5Vl05htMOwY3rys+gr0nmYHwm9X+WyC2jDDqSUIQEwEBFV00oqHhkIO6sLv\nfaQFMu0lepUqmzi/LAFkThUO/3/9JDAtZAE/896DsN29wvY7JYbxIE4WvHk+qHIN\nNlmLJ/3IJUHNurEGhjFG5VNcjP7iggjO4XTieXG2zYiQ0m1qdsvL74iZ7BTQn55G\ntI7FbZGorc6nkUtuw8wCy2l/GxGWSpHCjfQbffY1XNTvrD8cYhbOidvG5bfkFYVt\n4yobFHT1ICPbLU94X3sYiwaMCLAIJclUeNLhYP375VUgoHpH5wkpse/037Hgd8vc\nuNprIMNEHS4qMEHb7Ps2qr+Ukz9zLM5qh0tQzSIoiknIQFPtICy1xpsVwyFgdDuQ\nXhKkhH8o3bzDOKFDFuaA2rBq9D8g6vMYR2J2z2cIChI9AgMBAAE=\n-----END PUBLIC KEY-----\n"
+}
