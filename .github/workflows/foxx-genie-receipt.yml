@@ -10,9 +10,24 @@ permissions:
 
 jobs:
   receipt:
-    if: github.event.issue.user.login == 'djfoxxplaytime' && startsWith(github.event.issue.title, '[FOXX-CMD-V1] ')
     runs-on: ubuntu-latest
     steps:
+      - name: Guard founder mission issue
+        env:
+          ACTOR: ${{ github.event.issue.user.login }}
+          TITLE: ${{ github.event.issue.title }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ "$ACTOR" != "djfoxxplaytime" ]; then
+            echo "Ignoring non-founder issue"
+            exit 0
+          fi
+          case "$TITLE" in
+            "[FOXX-CMD-V1] "*) ;;
+            *) echo "Ignoring non-Commander issue"; exit 0 ;;
+          esac
+
       - name: Poll FOXX Commander proof
         env:
           GH_TOKEN: ${{ github.token }}
@@ -34,12 +49,9 @@ jobs:
             fi
             sleep 10
           done
-
           if [ ! -f proof.json ] || ! jq -e . proof.json >/dev/null 2>&1; then
             printf '%s\n' '{"state":"TIMEOUT"}' > proof.json
-            state="TIMEOUT"
           fi
-
           state="$(jq -r '.state // "TIMEOUT"' proof.json)"
           executor="$(jq -r '.executor // "unknown"' proof.json)"
           provider="$(jq -r '.provider // "unknown"' proof.json)"
@@ -47,21 +59,19 @@ jobs:
           failed="$(jq -r '.failed // 0' proof.json)"
           summary_hash="$(jq -r '.summaryHash // "none"' proof.json)"
           updated_at="$(jq -r '.updatedAt // "unknown"' proof.json)"
-
           comment=$(cat <<EOF
-          FOXX_GENIE_PROOF v1
-          missionId: ${mission}
-          state: ${state}
-          executor: ${executor}
-          provider: ${provider}
-          succeeded: ${succeeded}
-          failed: ${failed}
-          summaryHash: ${summary_hash}
-          updatedAt: ${updated_at}
-          EOF
-          )
+FOXX_GENIE_PROOF v1
+missionId: ${mission}
+state: ${state}
+executor: ${executor}
+provider: ${provider}
+succeeded: ${succeeded}
+failed: ${failed}
+summaryHash: ${summary_hash}
+updatedAt: ${updated_at}
+EOF
+)
           gh api "repos/${GITHUB_REPOSITORY}/issues/${ISSUE_NUMBER}/comments" -f body="$comment"
-
           case "$state" in
             SUCCEEDED|FAILED|PARTIAL|CANCELLED|REJECTED)
               gh api "repos/${GITHUB_REPOSITORY}/issues/${ISSUE_NUMBER}" -X PATCH -f state=closed >/dev/null
