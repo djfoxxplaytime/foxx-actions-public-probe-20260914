@@ -1,0 +1,69 @@
+name: FOXX Genie Receipt
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  receipt:
+    if: github.event.issue.user.login == 'djfoxxplaytime' && startsWith(github.event.issue.title, '[FOXX-CMD-V1] ')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Poll FOXX Commander proof
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          TITLE: ${{ github.event.issue.title }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          mission="$(printf '%s' "$TITLE" | sed 's/^\[FOXX-CMD-V1\] //')"
+          api="https://api-v2.appdeploy.ai/app/foxx-commander-jfvclu/api/genie/proof/${mission}"
+          state=""
+          for attempt in $(seq 1 42); do
+            code="$(curl -sS -o proof.json -w '%{http_code}' "$api" || true)"
+            if [ "$code" = "200" ]; then
+              state="$(jq -r '.state // ""' proof.json)"
+              case "$state" in
+                SUCCEEDED|FAILED|PARTIAL|CANCELLED|REJECTED) break ;;
+              esac
+            fi
+            sleep 10
+          done
+
+          if [ ! -f proof.json ] || ! jq -e . proof.json >/dev/null 2>&1; then
+            printf '%s\n' '{"state":"TIMEOUT"}' > proof.json
+            state="TIMEOUT"
+          fi
+
+          state="$(jq -r '.state // "TIMEOUT"' proof.json)"
+          executor="$(jq -r '.executor // "unknown"' proof.json)"
+          provider="$(jq -r '.provider // "unknown"' proof.json)"
+          succeeded="$(jq -r '.succeeded // 0' proof.json)"
+          failed="$(jq -r '.failed // 0' proof.json)"
+          summary_hash="$(jq -r '.summaryHash // "none"' proof.json)"
+          updated_at="$(jq -r '.updatedAt // "unknown"' proof.json)"
+
+          comment=$(cat <<EOF
+          FOXX_GENIE_PROOF v1
+          missionId: ${mission}
+          state: ${state}
+          executor: ${executor}
+          provider: ${provider}
+          succeeded: ${succeeded}
+          failed: ${failed}
+          summaryHash: ${summary_hash}
+          updatedAt: ${updated_at}
+          EOF
+          )
+          gh api "repos/${GITHUB_REPOSITORY}/issues/${ISSUE_NUMBER}/comments" -f body="$comment"
+
+          case "$state" in
+            SUCCEEDED|FAILED|PARTIAL|CANCELLED|REJECTED)
+              gh api "repos/${GITHUB_REPOSITORY}/issues/${ISSUE_NUMBER}" -X PATCH -f state=closed >/dev/null
+              ;;
+          esac
