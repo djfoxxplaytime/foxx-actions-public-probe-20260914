@@ -3,6 +3,14 @@
   "commands": [
     {
       "version": 1,
+      "requestId": "chatgpt-domains-profile-state-20260920T1701Z",
+      "wrappedKey": "kNvmAgQ7N5qePfB/IWXoX3slUT5KGAzxsiIRRJHum2EG6MsonneaklqVcNrVTGCYJ8vfAGj1PFI37RQrfnkveo1nYK06kQs5dxljazP3pJqKowxG9mlBLwnRfVSmydUoFwROIFwnlmVcVSqKz4QU0JdrKyK/g2ZzUqOl23eYAneP3SjTFsYNz3ziaNCpm9Ihwvu8Scqp8nnfGGbR/A0399V2oN/KwKadKiIzoXf98X1TA0N0nBVijFpjbdaHto8n6ba4BH4yXYqTNI9cUX03Ukn8a8NgvKZLhnA4qasNf2ciRuYgaoYdQzkGjmv6OjiuHp8hqobnW3fYeAFcCAuuae4TCBQMBJPJfzxZHj9APiqs//ZQ+WSLMCtyKCXsHKtNkW87Zm5J3R6y0Dz463SRGA3qMmHFP3EBQcGjR+DBbKU0Vx6a0AKJybxtL5UR0GS6X9R4i9RFcro8iZqHMwhG1bRFaj5Bxa35IFOTcICGdCOf5cu5A/8vXg8xVMBR3FN1XMIAHuiDBCbwqpF62L4Jh6atzoLoNfLVoVxFWNcI/ELWoxLvBBzSDn9DfDhZ6NTfdgKMqFTIz+tzZEJQj3jZ2onw9A//SbSgH24ruGXDpYxXnxp8OHEea2+kmMu0dNvgrcrV15eyY0hCx3/3AfBC0qHL+KJxHAUy+TniEG/3pOc=",
+      "iv": "iZ3UgHbBqXfGFZ8S",
+      "tag": "p9v73TmbviGGzc9dpGulMg==",
+      "ciphertext": "LXozQB1+TiybRyZdRvo8Nfpu4KitXDrUGMejnE3tQO8pS/kNQQ1zL06xbG8NNu0XGznbpR4z2z32X+HhH9oYhBeegzCuO5bvDP2Pwrt1jJMlmupuwTUJ0XkZ5f0agJgsJB6zC4NyDkwYmNMFvIz8UcNO2qj/z6AL7HxYUetm4WAJ9hzKo2dT2q64nx/VdIk+1tEuMR8MmMk/iKng612d2zTVC1tagZGdIq7m76FjaE7KWjQgR0Z6cj7qajmtJo+cmSjA+Sb53dUqn2j1t40zhCIg+l9bzuALy45QksLBzgDx2tDR1plr+/QAr58Yg/vZpPue2a7di2/By5mUaXk17vGJ3if2Wh8jIH4Jv5TssU7M7xcYxCOECd9rSJwtK3XY5a177IFlIsCw11RtM84+1NvI/Y6JTkvb/2mOoK8wFs6aqjJyTC+rv9ENXa9CVujE0i8GfN1/xPYu7LgD1/ZJOGeC6Wb9oVIBTzMkwTpjYzvcHChqERI3"
+    },
+    {
+      "version": 1,
       "requestId": "chatgpt-dc-cert-domains-snapshot-20260920T1709Z",
       "wrappedKey": "rwRz3/0ih+a/zyz7qy+4w1wAAME7oGPJiT7JFUKJ1slZ+GeuQgQGi5npA1Nl9nG24XCTgI/Y1lEEM2wIbfczR2Z2/d68IDXCu/fnNfFZl4mLMjUwQvVs+9kaxvOioBIcY6J13CeI1T+kXhiMzCMBRS/7UiyiZ7FRsGhtXD8ZvDAjltiHIDHyWlLTm7ALqIj5NgN878kmjqlHS6WeEn7KdoRd7lmF7nZYNf2wVQkwi6ngrbQTATamRN5kzGNK7qdwt3mjozSNpaLWq8uQW8DuhPArscFfAloAUh1bVaQxZYteHrUGS0zslE6w4eRYxmStx4x5cgGbjGcAij3klzJGZyhWkYYd9T6GiuO0g9Ni9vrbY+7k40EsbSq4BGjCsyzvp5PfR06UAvEzmBEisaYvCpt2FfsAXmoh1H8ded8TW9diq6VcS642yaRA8cL0tJ6ft0rZB2sgEzh+tknb24F5SG2HcQrPeF6Xof3Gky6IalTrIfhhnh2d8VmVDuObwKVh42zRpFj1OHmV0jUQ7ZSZig9nuiUhqEPBRdgWZ4OPcpQy2MXvYNL7XTE6oyhDB9AWFSy7OJvaxguyb1DPGW60IqfbGnoUbyz1ObwXhvoBlLKilX7aUghufRZ8pFzTlXVG9HqTnuLneNvwN8ZFn+PL59GXPIa6cfnY+Se4pqX7Fhs=",
       "iv": "eTA60tT43DU19rH4",
