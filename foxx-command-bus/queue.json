@@ -3,6 +3,14 @@
   "commands": [
     {
       "version": 1,
+      "requestId": "chatgpt-relay-kick-20260920T1944SAST",
+      "wrappedKey": "0sQ6GXOyLhIhWMNBLbEY3d5BFqQTpbLmCIMjF/SqI4v+o/SQtszOEjhrwznHl6Ar5kUIOEOO2Ehiqk5LwOFCKuEwrUG2fqHWplmYzkcMPpl/32kaeS4CC4Ca5mzG6DmNCYhJNybAt0i+JTVx8Qxr4bxZwZzdh7PqyGueIYnGTQpjnNHFyz91k5sFi7DoiKZT1vu/qKidtlk4PiDqOJwBAziaORNE2RQrihZCxQcYFgYq5KmpBy48/ERHFw9uPWyRYnERr47gLpHGzWyjrSmGlEKIBFzyLV7Cv7Ea8w6ALkhgpzjtaT1jzfV09P0xjsh6XWO4LZtiKK1VSCkAy7jnRzWkJGGmWvnofGPEKw8H2Twe1pqz8/SpEZUPep7IibdkMOOJBUn6x9do8Bgt+THfNEC6RHL6PNJMqVHU6z7BCSMnUX+9o4AWumXLHMBwRpyBDVFrF4Ybp/khMj64qmetEfo3Ckz88X41dO/HG1UQgSTtykeM7xWTpap2fUtaJJ+EIbF4qz6np1LZNrDAJqHQwopwlFpJywt6VbEOta51kiyFV6Vr40htnjQNcnzKVmFn9oIEW0YhmW88p0Iyh2VefdZdjHaYgSezkcm/pYPJQKTDT6wZpsScgezmCT8ya8Licf8mDDCesUEmdzxrpxs+w4+VHhjHxvsgHk7SwocCCZ8=",
+      "iv": "2IEbyepU5vLIy4HM",
+      "tag": "rJo9SaT5u1eZvkTXpc8mqw==",
+      "ciphertext": "DYOAbGPh3FZISAo2bjF4wBw+Sk5o6TP5sdfKbaYF+dxI4qjG6Xrw+sUO6TAS1S46lbsHW0rE+T3NxuCHtgS97VSA4Mlhac2ddP4J0/C9bTq+SkaOe3pzxmCE2w4hV9pjHHjyT5ZP9WdA7iRTEJ2Tz3JYVTn13U0K825Q32a4eNbvW6bz6286cE9EAX8E2TSpwbf2eohK7HWWQi1pFHU8C7/jqqckbIKr4eQ2wlYs+O/89HQJDAv3vQAwpkhizrUrUnN2Kx17eaVVW+e4dnuWD8vSQZXPlfHAtaLN7wG2yVgLTJzN22uD4yoEnoBoCSZVyAKswRzWtnkH/AkiNLaeSCJ1VHgrxnl/tMkT6XfV7Og/bqXRW68RX1RwmrnVj2RHgd8bhsUEJsEE8RLrR1yEGMG3ffzbSssg6DUoNf1mCTZ159lUdwww2K12ECgqJKSb7amXDd8gGA=="
+    },
+    {
+      "version": 1,
       "requestId": "chatgpt-domains-support-cert-20260920T1933SAST",
       "wrappedKey": "3BvH4H9HzDAklinnxUy1YksxoYy/0AISA2zRCYHndEWlIlhMg+XscAvBeWXe0Rroh82bHK9CMoKwx2Re5MZiCABiX3D+gmHzaQOLM+gMtp/nKL8V56ikQT6JOxPfuJhBIg5XG8CWM//qWOILZyA6PQl9tonqC36bSDEy3iUPKU3HouGFbYdBm7xRUVuHksQqzFvckz99RuvmCx0pxUXrwHBMAGpxhIbLVy2vkhj3aa7Zd6t1Vru5FSD8HJxKOQvo6WaHzTC/l37yy3lm1eWEQ6HoUGtPtfVW5Ci/1HthS6176a5dqMo8ijE72+RtvcpTaCoFrDn1eJACdVCRkHG/4/xpNTBXtDY8QO7zRwt99BhdcvnbO0PVUdWh2rrFEUeWXy4uE+kleqJSHDzKT/6E388YqguWA1NNZW4is1g5zoQRMjrljNIuO2VPSNAAiKgmRChg0N3MgwPDqpDh6HGCVsa4HoC/Ui/VYf+AgPDR/0wDz4utzKYAa0l32zG0x1BstZkcl1cCMfTtR7e1zUJ0mOhgDm8MgGCYNkCWErFtjXGdz2iw1iZ8wRiTs06ls5c9U58gemMSUHrstylWHTvXpJClcUdvpLxDq9WDycf//ayZMk1cQek+5C5pwzQ8XJw9hEw4mI31FHZGNcGSAim4fu0ZCB/4DUsoFe/VIZpRLao=",
       "iv": "6NlsKsqkG8lUSX9e",
