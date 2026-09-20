@@ -3,6 +3,14 @@
   "commands": [
     {
       "version": 1,
+      "requestId": "chatgpt-domains-focus-original-20260920T1758Z",
+      "wrappedKey": "5ZuPDiJRkdHQWepH5BzBKgZhuig0dX8NcARTunOZbpnOn7twwdBdzhePjDAlLZnWE+MAYjFe2YC+lnhaeTZuyBXI4ARoZud0G2THXcdMqne6SN7oqi2Q99ApMa21/bc8COXqpdMTRVmSi0HGSQcOzl3YJyVawtgpY8wwPY5zmwS1B8llVv1iTFDhT94Jkpzb/tr4EpNWPkmI7Lk4im9Z+STQwaeP99W3bsj7IpchyQYeUcOJ3uxOhZbwBBXa4EtCw80uNMWP1FTXtogHZYWap8LRluTvKQJZlprUn/uSEubuwQKldp3h46HNH6ng9Iy7gAUv2YImwR6cP4joRuJrMRDYrXZGLvqZa8eNjv84oKfCj5sOkK902yu1BIziyZsJWmRhr4OXZsVSJqWyT6Ie5TK6jBKzLFyI7rLNmZWxnnEVTDDFk0JqtvTnsfJ9JplGJYUoz+jeDgPfctyVTM8/efBQ6iOjYxwuHYWTVWvBcWWy+OK/XhtSL8zyrJLWWLpaD2QVROui8I60dtH6K4wpqjmBrg/vNxW9f5C7pV/p7YCaekjvt1aC7p+AM2A6/NJopTvXlhYe1lK9Cj3rtZdeorDjzcZp1kVpAxmsC/C3msliiYhhm+c2VLL6+TyZJsu3z8oFmTY7MthvDUj3shXZeVLQ77rErmO6v/Liidirp1w=",
+      "iv": "4GlHKvg2PyrDV1xK",
+      "tag": "Xeqb9cmB6agEiZApTQrn2A==",
+      "ciphertext": "m11uE898PnHxsboqSdvFQVCEaJTBMsWHcEoqFz7YEUT+tGDiiVrcM9QR6IWHhd/VGXSBgoo5e9U++fHIHE3sV+QQ2BVh6aiuip3TKPKBf1ulQgSQyjlHWnxJMUKqor4jHfVaMUOfi+34qxFOKNReb+LmDuMNm+Nl08z92SOW+ndqFhCIycV1/bOKLIpCw9/BbbiwxcbzgwTCWIf1fH4cG8YnsCLKqhuQFfGW+UifwFdSPEds0UmlqBAcrB/xFfcgKukE86vQ90awiSQku+eXFYGXVhAVn58LW2LyM/7Djt1ewOI0BeFtwfqLJTZIXcE+5mNQpZywBSb2Zuh32Yuc4MIs5yqVXKyoF5fSKGrnsUWX9nvNOtqxF6mwOov3HzpBsxdMW5KJf+2d+JbOOk3+HcphAJRyVPTBKCpLuamvcihdWRLdi//1t+wP3h6a8Rw2wm9CIp2xp7i0RvXbP9WvclUu"
+    },
+    {
+      "version": 1,
       "requestId": "chatgpt-domains-screen-20260920T1725Z",
       "wrappedKey": "LNkdh6zltHoeDTJavD/q0f5zSTMSwtArFXYHtcAmePZFMQXVkCsxadJpKWN2+eqOjqOW9ucB4vvdwr+PQ4o9VQTCxuHWWvC/VcGfuumwdGSnEF6lncSK3C0hcnX3C/2EvhYGZuJ+sinP9nURfU0TGWFRsACoGNrZdo4/8Gd4bdAlpw7nSbl7s9GbrDAXRyLIqhFfrHh4+NfSlG4hSSSXoCa162Uw/ncOwT+fEBRocSDNgI8AjArAawKIz3faOD/8Wf+K2eiJ0gmOriD/CGHVVzZuyMWutHPDLRVVqKuiRZ+chnMCWQQ5xvQv96SosDt2NmKZYHHSINjq5wAEE3bMkvfgR2+8Z8yBdLWf/xRwYKYRlZKyRSEsHFNf7hBVlGL2638jDe+3gBIKyNwrVkZO166E6sb+NptsXSnsJOhNkBLCP378tj2/WlnXcl+KXd7avtX32ZeMAJYWf1lfIO/BdR0yfICgg/FXIS7Oev4CQpfrbre9l3I6W84Sk42LmW6Pojs5JaMukzXaE3Bu0iik9KQ3E6u1Ru6D6y/TqOE3tCtJFtHU2UctlLE3+sbN4dLSdbYTPUDdMWtrP+fffhJaewwahCYp4FlzT3e6XuobJOv6HvdfDjtApFBuhLrYEe7ue5S6CTur+arfEejYoladU07DJwBPhPTOSp48A/vMp7s=",
       "iv": "BVaLFT64YLlWQHsE",
