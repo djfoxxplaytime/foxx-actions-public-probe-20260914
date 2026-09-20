@@ -3,6 +3,46 @@
   "commands": [
     {
       "version": 1,
+      "requestId": "chatgpt-cert-main-find-supportatgotryitout-co-za-20260920T2048SAST",
+      "wrappedKey": "UZ49sCMQiiBbLaA/pTT9f3anagbRTPoEDqSRsavOit+JYwTQK9eAG+tVrZjbAKfx/4QE66I7cNOBEtFvhLZkfoqkB6K2+TQu8WHcAyuN9aOGUPCve/OtyVZ/UlcnGxJW7c1JyMJFkNRAUc464TePQlFbqquLt/KodL3H8N6+Ze4EiqDK0WJNP70sIfSCE2kzDo66imupoUHIfrvN0RVmge+yf2mgUvOBubd1IvjPSCvN2EhbFZpzHdfGniBN/RbWmOF/j40WFRbWNdim4PRlhoQlCWWllTaVccARDuFmOv+mSa537ExWFqQdF5pIp4FBelk3TK+meRZ0CrOqQdFKBF9OMfkX7k0QNXaqsIEtNqbcRuzkz3nWZ5SckkSPUPpMzhVsUDdARjY97u0VfqHyrBBrUakBEyhEePE1WayUsFCzpGZj32nYSaI0qw+bOXumFhe8ToITqeA3fDQqDJNTSA3m4WecRI6V0PamJTb12VYLQAZDsekUBfxOBUG+w7PwXDnvRvq6p5gsTZqqKXU7ksbOmkT7jOP3CVJD5RHqrtXG4r7osp9RqN9+/gcf8QbtQKY9q5sj0QbwMfp+ZnTzRJyEuEc+A2ZMZnaFr6Vv6wQsNoQR3ES9eWFv0Nh2CeR+Ets3LC9Oq0ybi/1zB6WmuWbK85UwLjffTaoozlKh/9g=",
+      "iv": "E1yMyuKNB4EoHRMY",
+      "tag": "fcIg5a/y8A5XZ9aFieB62w==",
+      "ciphertext": "6DpoeoSVivs4KnPiC73aXDTfd9m78x8CNBqnwlN+G1IW0MbFqoKd7BsKaUZYm1SumftSshz7FU1Mqy4T/pzCPMEAkyyx4oMI3hbhjcyNTxl4W3B+ctl2umm+ia/Uw37hGNx1Xva9CaZp32JcZu/HZGMLQ0szg85RE4uZaieugyw/gSXoB6AEcpYNs/1V8RpIONyE2IoXE5FtoCid8pFR88IICeSn0M7nhNGkf+WXS0qMpBkMQA++GIDBE4to99jtNXgYlQj9MaGBzEw294NQWw/df+c0yMtYmoB0GLnpUJvT9kro2MLSsGX+iOwotpE41ctXSYSR7a1heNs0HH6q7Y+tU0IoKKz7Pc8mOPecFhdlNZeQLprmv1/WrTUHZ1XV4R6RPdy+fBjc3jlMPCivZdVAmVPaVJpoiB5foIPAGxj8v4gfM/+nJ4bQtsWLO7VBHu3vE4xrZ9f+JKLOQAqch4dCeUCTpzu7ODu2I+CkYSyxFuod2CNg3/eBv6hip9yPCSP6+AHYAuuPYiarRYIH0ds+kkCh/emerq1MTWrMEUjD1l4i"
+    },
+    {
+      "version": 1,
+      "requestId": "chatgpt-cert-main-find-accounts-and-import-20260920T2048SAST",
+      "wrappedKey": "yvMmWHGCmTk1QS2qItlUGxYrhVvqSHTUfhjOcI8O4ma2gbrGsF5Af8mooeHR2Z4PHLPUojvfQXSl/XEc02ppDiSc8IaEYGHyeElpAdj+CpgHLcNLNwv/Z2EsKIQlv7CLbMXvKMJqjTifSU6MrMp9EioQFp+/cIws2dFcss7w3ASJMcOhu+e7S8bAsldU9R8NvATGYINSskUNwgckplC7tznma40UsO9Dken2wadB0ntzRxHso2gb9eMxUTGVInwgi69j+Yhw2gCi+ZxD2w/a0MjWUGBx6Wb+nH2UvLy/kUM4jVRbTUb9/RBLzdEEwiDbLjNmTHDlOQTEb4venyPArK7Ji69vOFNswXcwAVUqJaBIbbpb4zj1YQ/KaT4LfYSg0kNWdQRusmWuMvV4crj6u3GzTqtjWRLpCICb7aLcRsXjS0dd6Kp6JUCzFX/bjffekOYU5uKdUFvrwfGazxoj3Nx8wDLNX09+S3VCpqzj47LuIZkmUBOC9fIgkx4SjVV2R5pscKg96O+4arEFDdgIsWKheRMa+A0BTjBjR+TMOA1VvPVvYbXUAVb+5Gt/9gJODou+oSEIoc30N2ZAdpOy/vi0cB2eYOxfWE4K1N/HO44L4jMMTJVR5e28nwUnPlAQYb3QdgTxq4xrRw4z5CwbkGV1Dgx9Phbjim/n53EZxQ0=",
+      "iv": "UzjcDgj/wYLtL/CG",
+      "tag": "G1eaMQyp8qwgrpXeAfKYxw==",
+      "ciphertext": "TDfZvreDVHDHXsuSocNNTcLE6EmEB7MzPAiw1Yab23FnVelmkXKvgeULU/G0TYn6jMc0eO84LKhl8WvIW7UkKN6MsA7A5MlMVTz8FCMwD4XdluxsiHRIbhuJd/NtIC8m51Os1Ihs87xvu4Tv5iTF0ZTIfkzK/Scfeut5++dfh+63/ccTzyF9sB9zCatdgKm/uB22nST+XB3ilqKcWk2dU0mm6yQY9rnildodNkpFy/Q4UHVHUPZeJHxYIr/9ir93FIu8ti521FsGGCeBRRbTUmtQdsYv+AD0/8hF9BPXX/flsDXufIMtR1lvo5qvn7svk4x5u7F3hoLVxI1vUlp//cmujjXdv/QabfYOCvWPFP8LB6KNC2TkQqwtScqxI+4RR5RC0g6skqEghYXsGZrN5VbE4Kg3qZHf26D5SPI8+93ktSKiUB2se0NJHjPnY6OaeoE2XeocWD/sgXqmFWKGLT2t4+LkmIg9y0xlCdxaSOTAJ3qp9rqcXUXSO85o5jEPJEQdemr2VeXpe2K6yd3H2oBq5ztDyao2BA=="
+    },
+    {
+      "version": 1,
+      "requestId": "chatgpt-cert-main-find-gmail-20260920T2048SAST",
+      "wrappedKey": "QzM/KeGHMRSHPRmKDf+zBk2pPnIp+N1yUc4C2ZA9p0hAbdQX5VrkWGR4PnvfzMPjO6YX+TrioSnckPj+qyPGbxkD884XTOaxoLcTgBeHBulu/TZEmV5lqMZRrd7+ATkzOXAYlA5BSQPDkNk4fB4Z4taUHXY/Be+am5OG2lmPvMy4Z6OHUVjWZcOrOkDocqZAKrAEQ9MDcIbaqU0W/AtV+j2ZjIvXG1yc9v5ZpJ+D7HQ01DzVeQV4MDmsDaHVo/xO/neHRIvjBLeq/levfPoJhwW3615Rn90F8wAxC/7DMsZQII5ocDuSs7HO5ENDNnKbYlx9kzyvjCgFAkF1c/yFcPK3Aj1VJnUWYrQkdJ4Z+eBbr8TfaJ37e3PmI8nSuUNlaLeZmuSwDE8E5XYyx3Yngm9Y65VNg+m3VmBJgYlG6Y0jQH5lUyxiMUEf9yT9qtgeRDWxeNL5Y86DsNFQBIFv8DqgoYu6Do3a3hIHlCZ2ELx5rm7mBjqZvgiRkSFujhM8IM6MF/3efSJiPYiaQlOOWJKSp+0pxWYVSHIGQ/rCZz4opjR4wmbIE5Tn27JgtLOwAwI8ws6mIo3tvM3kDg8Raie6g5wQjC8Ag4hNJBI8x9luKJLAVRZanzZ1zcNN2rAwXrcmo+SgP3aXIQ22ZFDTZazCEIJXy9z6TNhqBw9+nPQ=",
+      "iv": "GnluwXLaZRc7VCUq",
+      "tag": "60rbG/E6hMZRIkXPXCm0jg==",
+      "ciphertext": "UDdynvxtssDkRl8qL+Ki7cr9+Ad/C5w/58b+M382JQqxLztkt7w/gRV//X7oR8E4q7emBQR7y4UOpYo8h9NHOb8ma7oSNHHBUAUjhffeQ2S0caCMrdACgbRBe6Fcj3KpZ4x1wOiEbhQzlPHbFlIjwfYxLOmS/XM6cbLtSWt+PdpUo40hZtF6nobV52+JSWFVSIcTJ1MK3rqYFaQcf6a/14F72UNVNDqwQFy8NDT+qU4CUwVQNT8KGqE2fAoY46PZTo/MkJn8mnAEojKtSDcDZB12SRXMGk/fY7a0+SWkOD7M41EDMWDgHK+GFqc8ZZwa5K7BZfbxa+xrouXBXWnf97k1S8TP27b9ao4/lewpli0wgcUOxlQliXOenj+XyAdGSayAaKARNZddnka4rjBOJqXYVbz95f4kAhLujA7WiXfVdohxX1nC+kMCEDICMmqvFgqwvhs1ytprSZYPgqTadmLUA0ltlVvgr5iW1u9lZCUtHaVNixoe1qIdzr13"
+    },
+    {
+      "version": 1,
+      "requestId": "chatgpt-cert-main-find-forwarders-20260920T2048SAST",
+      "wrappedKey": "rnoN1HJx9QNLMOgk2/vOH+tsIJl7gJVW4hQLct/01Ty0JOqTL3LPhFo+mLLEHrbHXqH4CJOt4xfF/ZeOUse+CwcS+TVyQdybxBJ39bjGwy7tZEuEGo5Kfwz3vNdz9KnWEpClSIYaxsTwswOP6wrTNAz8lQDjz+6qhgpdwGygpQJDWHLg4uD6EApfAo+eShVEFycxhK49lxZ1J8to7Wa7O/ACH4txdaWcM3JpmCtMWB2GlP+EZnju3ymRg5gzZ/AW5OjAiZzs5oyq+daozJW9Z0hGaG177mFSRYsxk2Uri+zkJU0DDsnppAumaaycs+iN7zhEOA/86UYs5gLu1p0q7m5c/xqPtuPPF5U9AxgJV9TCPoHZQvw2sksjKM0pbx6aHYfwKG69B++L/39jrbS/EawNlv5+GQcSQ0gY8v7VNV3kvIGSyYeK62dhfzHncyjAcsAJSsT1RX6+9AcRCuI8rDVQh3wypDaYstFUyfk+jcq6uR1iZkviCvp5ZE10HkgJ9vuXKYgrHdLWtpn6dBjeM8mx1MdbDffSOiqNjdQdwhSIl64eGNmoCBjIbidKNEmiM/3dcN7qT6ukkgqk6Q+D47/J5rZu9tjItbDyHuTS6M/WjbMLdouMpGqumeSoQ0OJFmV11KI/8STnKy4dJK0ZlBaU1Z3KDeHwfzard5Pn9/o=",
+      "iv": "SxeA2mKhIoYlhB3Q",
+      "tag": "tP1dngj2rhb8ewG7Qe6QAw==",
+      "ciphertext": "aDaavVdyiUxX2w6t2nOSKJPAPhNbhi+zdjRXob7R1tWnbARu9ZAjNYYGgTjb73frqMoG0lE7pB8VsGNfvla6HvC0BhEWO3UpZPLstzDwpjzlPb2VuqeHWFwVirq+VJfhUn16anEmcOmxc25AXPpU1eYnafNxSTJ1QljltM6RV/XhHjsPl3HI9+CLjKcsZkBO8FQmg5v3KUGUiJtofyNY4/2vKONfaTkmSuM8nO1R9M7ksT2g9rT2dbinuFbcCdLLC3Q8fVxQC7ya9hspyOyTrD7MtCMh0NCGwsWJPS8KBQLSOyeHMOxrCZpqB2AeHPu9owjNpQSBLoX4MPSWjHxuH7O+x09BbQkxU5Jw1rXIGcheVMUKSkzmbK6bp6USt85xN+JhsBCawZzAKKnW7PT9If01B22Py2lb04tskXWhjpPlWb3mqt0JjC3a4HlJV3W+c9UtwR2spn5zux/ES8e9vOBNtOZt940wZhVuivHwPNyXjYOEBSjM0ssZLRbfB3JDX1J9elrrMw=="
+    },
+    {
+      "version": 1,
+      "requestId": "chatgpt-cert-main-find-domains-co-za-20260920T2048SAST",
+      "wrappedKey": "N7CB9kG7Odb7RXNc/0E0ydVkqrVve+489CV3Scl4lnpdMnTtmViV2xh10afzrdtGhSFsQtKlzwXz67jPRqye/ADFG9kzcTq6tsFF1ZmsxZimMzeXuRHnCUrDMeImPDw2exh0LqzpMjerhX+PuF6t+99rC7ZnTBG1ZBf+EkEvDtABP/McDYUJZKXzwvY9ss+Qwn4xg7hQai3P9TXz7Hu4MUMWU0vpzALM6Mhy/HUSAh8/u1fpvJxCQjlwiGu7T/Qwhpkho2yVjXIGJlbfArERTgdmXH2qedU8Bbai7BAEch081BXUVFvVlzRX2sEZuprAivnFuKFdC2aZo/003ZDwUl0sRpnj3g5PR+9LvUYiKWS2AJI1s/PJmOus/oFUYVirRABdcaM9wsiWEuNBYWJHUyrg/wxwFlwnDhUQNlhhjEOzB5qz4JRyB2wNOgFspSFqVNjaI45ggi9RHShoGSjP0T3tTRvyMYrxfmknNv9QjC/x28nDCdrKH4D2l9T2eVl00AQCEqOvsokm1hDWKUPboJ6yTVd52GC0csqwxAnVsZj8c0FP9Du4ciZVWiaI4HfhyWcnSwUETytLY9/Gn5zIwH3qOKRM4MjLOEVyjG5bLS0Xgit2W+MNvvgBiKNFsyNeHPGOjmnljqGoJo70+pbFODJI4lCNpWNkh4/rma2h6Fw=",
+      "iv": "jXvtKfHyj3hwFO2n",
+      "tag": "SqUy78w/5TV/1P09CjUXfA==",
+      "ciphertext": "XcrbMklXRRjNY4aAChia3k3B/K3eAB9QaassIIS52WqBPf83EOqrXxcsopEUbS00tTlZNdAT/dbVVdScpnOhHlujs3T3/E4+P61Yk5HCztdHh/ompTJARh/wKGsOBuweospXttHfpYCw2xi31kBVu+qtMxI7NFgdxhh3vSTJBs5NYVHlqaLsEBF8PrD3H2hN0lURVbw4aZiEcHLc03VnI1k/Jxw5OnwEMNEj4mL5uhPsXHN1PInhivGq/oLlhYqhS7lMZexYWDZI5z4XdzhZvlbT+Le/XTFOzakzWF1S2B4UhHknDwkEJq4L1HRZMKhHFwjzMDagbkRGUz9c/jPs03xXDV3bIGUPpZBgFrPozZ2DXp3r6fXSH+xSoBEdpl+2UABfUMAYzBLy1Wjbj9Oa+ifaa5nNHFmApVL9JKoFNlG+JpRbfmaNkj3kd+TEfS2upwPFzVVnu8GZ6YGEUHT9bU9Y6WACTSIAzuGAxfzsb5PBTK79qTrE44Z9BL1yRXc4+XgwIwcTvYrdr2qWSw=="
+    },
+    {
+      "version": 1,
       "requestId": "chatgpt-cert-chrome-second-snapshot-20260920T2045SAST",
       "wrappedKey": "m/eS6Qp0/LmgOPUXWXcimGs4fnuDivrtLJHmnCPEo2OIbojNrVZNXSDgXTsAy9DGbclo6XRBgoQG0eyouJ1UbXkWQJBTR6IahPj4n9Z1bkyFgJH8SKiBcuOyJK61HnfMicAsWnfh96xO3aYO+rUFsS/6US6vQXcQ4m6ayCmKnTyLw5QFlmgIQBMh9ZcYJMCsGaJNAQig9eIf4q+YvdqssAWbWKWmRCziNeI1bTRbrptg+ZvGmulE/CCUGenNmoWq1WumzTjHdo6S0j+giqlZLi/4YKLVUiEucWwqFpxAK8q8CF/Tqppz3aXRMWVVjmsARMs7VQ6abuDM/DQ0OEktuXtYuV3iHJEuPWuGLvjq9mdha2iBQRUevOT6Xk4wZwVnpXgDXQi+taa4RpwC3g84EvBj2PgYtCL26ATqkhNT/IdT4k+oSF/ckRiEpgO5aqlAL/Yir+pFQ0j6bmsk7ewIQ2xRVNyX4qyzWYrgBNRXWEoqIXa/42Z3rNSaNvecYYjgc3Shru8uJg541Cj9GKVmXMtxqk0a2dgxA+e1sIxMH84nrIh0RgqT97yHD5jciVHb+rVbW5FHt2rv6Q8JqPf4XxaG89nR/DKM/sec4LMoEn7K0vjgSNudzG5d4kETApiYkhlseJ83NcBpOuzakkqV5TpyWjW173fgHpe71oRy25w=",
       "iv": "YENTrsF7KB9JUjdr",
