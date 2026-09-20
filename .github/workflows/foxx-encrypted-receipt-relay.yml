@@ -16,7 +16,7 @@ concurrency:
 
 jobs:
   relay:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux, x64, foxx-sovereign-relay]
     timeout-minutes: 12
     steps:
       - name: Checkout mailbox
