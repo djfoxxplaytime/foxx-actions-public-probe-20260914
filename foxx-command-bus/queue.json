@@ -3,6 +3,14 @@
   "commands": [
     {
       "version": 1,
+      "requestId": "chatgpt-domains-perfectspot-fast-20260920T1708Z",
+      "wrappedKey": "bQUMYAh/a5ffeHVUh0nat43trEUz0ioVCenTqHT2Vddw0kPF1MQaZ/oXLMPvGlDjGbY5MXNDSR6+8eAWY3/N++Vg/e4++mcAiUDCv2TW0vGLtFu3ODWJkPzdrxeTMWEMNEPDLbxvUwHDM7SMTHTD5YpPGznSsDZCzC3RIDEslSlBiIN4nKb6l/alopsus+YZIeB9W5xKNhacR4lkbXvnEnt+DUnvIZnbbV2ujWZ15CGzgHQAVxzcjwkyOOU+wAllxW7c/YKNUhVizntFQQd1tq66rN8T1j/3vtGp9Q0NN+CW2hCqUwL5wl+W65ImN9KgwEvBzKgMse4xOfVgUctiw9Bd9YAxC0vb/GCx837P9wURKQoB16vqINVrZbUzAwGzn7GsS6Kp+jJmAAnxPJItFnI1IvT2mVDTd5iF/UvgKU/XXP8QeTxCiv1jKIOLPcQCqiWPrY4uzbV0/P+AlNxyWRr5Nc6QaMJYeKH84txF5BcP5qzLDXpRgUNL9SgONs7qvmy+1ldibwal20LzfQipgfoxrO5oAXjxFYrbLlY0DDzNiylrIC7+t0lyq8PaSGbwaKX4L25TPj86Sb30myLmr1MJgMDMHyF8fZtwrJPwnEAJjDrSHC7n2ZmTQjL+dmCpDAUggX/miIITZsND+SmAFY0NSrjLHu9tSa7tfay/iWk=",
+      "iv": "5TjaOmaZ1/aWY8zc",
+      "tag": "aju8mZl4Q6mjMkA8wwgPVg==",
+      "ciphertext": "Asb0DeMJnCxZ5cozGq+nll3Mxd/Y6R3OuP0lJr50nE+6r9OtPJkXdfirDvwvHoP03rDKnAypWlRxclxV4HQy05tAMZQJiZyqjmbnbSOZTHKlIulrigrb9xPpFs7wHRvTiatXDnkLjwGZClxCSC+F1djcQ+Wci/vHx1mmrzryuEyHYhRcsgb+7itN6F8imiDTLdy/0DSNbJIjXfLl3G4nZ8IpMZ7qa89fYmCk9FgnrHk0AvQpjmQn5JGzcmy/cBGrVDe4aJ294F3chy0Y8PRq43MvZgAyhq/zMudSLAg4/BqQsPyxhIvLBAaGly7Y8EoC2j1xFv1dnaKvuHSP9wVxn+tYdSjJvDBd+W//5v5CSBPGcJMrZampNAqHXFGrJAba5JpxdFVuvzGWELLo0LtnGj0Wjr42MD8XEMEVbWPMl6HAS4qhCoYkwgTVknGOnlpIlLmFteR/u3Hdusf5qhKivofzDBoXWy4Y5a2Vpn1kpe+cFDw64VxmagLN7pQwOTd0pOY/5NzCNJ4anGHRnNdhLdOc8RmSdffxIGhmPgJWwEELGxLLSg=="
+    },
+    {
+      "version": 1,
       "requestId": "chatgpt-domains-perfectspot-open-20260920T1704Z",
       "wrappedKey": "G8CdHLg/VjcVlYrvSna0K+M97okBAna6I75WzM7d0rtoiSOU22xO5arcQImMjWit7LXzHttJJJm1OsKs5xxQpsGnMFwo3WXdnjXx3WiZu2ZPrHfKCUUzL43Ie2UWiyuTRZqXgQZGAq83ZmN0qouVfH9t0mSL8NZrjLkAStLTamRxmW59zHiLtOfWbn+A+3TnVMBT30m/1+hATSStDnZDDpcIQzE2d6D5aLUAS4a8DQsdNdhU7b8kS6/hxSKLeTmhR0KIyJLzn5jT25V7CMCpYP3Ruk5gkLx2DHposZrGEwya+OKrKCPMwn3o4olFvmskyx1rqdRIwOwL9M+Y6g/zFqpc/bFrX5fSqP2StP7cTEQ9EkaLd1hXQjU9GKCcJMxyiCvdM0xGh76tVokUdqcVf7pksTsce5wm/yZ/QawXAhsXwLH7RqzRg2J1URbPl+5U7qOexBumLtD77eZrQVisvqyURY7RbPmh0AxF8IxXPLI8N+kN6bTm5uyEtxxeK1ROCuCDdWLDQCVUEzxujDvoNokG/yBMkOF7iFXn1hET2Br5kvn8btylqJWkCzMFy73Fulawp7IwkMIDFGZRaeeb2M0V0LVXIO7U00aHphsR3lUcCKIm92t/U9wAFpv85JM8JPGzE6e+zCtuu9vSjJb3gTZ6wQo0VmQ5EOdvU+rLl0I=",
       "iv": "9TDnDrLASMk97+LJ",
