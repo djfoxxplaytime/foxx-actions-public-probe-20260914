@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "requestId": "chatgpt-hands-proof-20260920T133347Z",
+  "algorithm": "AES-256-GCM",
+  "iv": "rHDycTbNilZo55Xt",
+  "tag": "6b6ABNHr95DMC2BWi5VaCw==",
+  "ciphertext": "ngXl0JZvcsCixZoLB0K0zPCH0m1NUVIxty9VkI9Jbs42EYZiRx7ZaPgl/vCz20JMEldTxC7B4/eO0ZYrbbnkznJqFzWL7+wK1ojV2wbIz9XG1FVakN0xQOBGXKlRbuoLzsqmHZGte86RZRBeqIpUqeofc7haU40xB88GkNjx0XcBGVyjQnRqYSVcysVn9oRtGtZHYk+GuCeHEeJTPYvAy88TsRbnS6vBjZSoYsKv5c+dUhwU5nv0OdDbUpqB/ioH2RuHoF9FPlkBtJIDAY7cWATVTe1wYM0zdn89sgsJ3q+X7aalg8ZKHM85Dk6B7V/WnKorl5grr13zg5XyrPOS8d+e6OEFeDFcdzW14p/n2keyPRX8MCoy/xAyVDRUQuce69yCOJdxVKfq7uZen/T1NHEUp0IQGD1UL/q43/qiixmm7v7fPRiWnsOJdwsdZ6hTcOIq7t7lHifBQXxUgJKh1her7rvJPEuyZwiqqaDHddwzQcCrRa0ltQwBgMFaPeIfdQF/P+cWqCgyvDt06i7TXrfmlA5virMQ4mwlPYHyaaxKLpCykwqg74hdfAaAkK3pn9WzbWozdc77t81Yw4+VegzZkIVxAwzVMjBH50HG2gLJw7GTQ3KUekr/h3JJpS/jcRiPk8K4Pv2KqVCWolhE07+sYgSXpdKMlUV7WJQdP1g1OXs8r98iUNMCuu0yo1a+IRIDvm5qO3RAnfQLYb+61rQuntjXQ4OSlfg+qXAYepU27aKN0kUypIoRAisKt+wisJZrTA+ZZn6bRdiNUmrir+K4LfqUwlJuhmFPjHbxRAKLSoFru+OrQ+MkCejNcGwW3g=="
+}
