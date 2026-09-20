@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "requestId": "chatgpt-tio-domain-verify-20260920T1655Z",
+  "algorithm": "AES-256-GCM",
+  "iv": "Nfb14ViAgwpPsewX",
+  "tag": "yt84dnsfRUZFw4C7T8Kx9g==",
+  "ciphertext": "LNlW3bcMLAbUMcGOdZ1FhtC73gH95iiWhvqpD5c/+sixbgd4lFQiYqsehIX/77Sqd5I+8hFwLBAnQlhl3F4aXfwhJTzQrEK4K33dRi3BPk5ZFssNMhYwyHE8n0xTEjUbwdN3FPBMO5ajWmnmxwH8EgMVBkILQoKtih/Br6RchRj+CGiacHQV8D0S0/2jS00C6qWSlfWNdgxnzTRoFuPRMveQaXgQ+wGpUOf7+o/1K07mNw7cT3OwKfrBkRO0gxrHSc2jHp329UGPJzqKIFUVGU1TeEE0xm9jedQtBwqQTXOdCuDUWh4RH8Y1nYcWCjM7MXn373w1pVst1Oz5cIclAPeccrenv7EgN4sOXd4oxz94nbcINkflBqWoLRwz/6iYD7wkw8/0bbdXuBPcyLq7kNozW+ZhTLqMt5vdR52qnhyITuzlllXKGmf40MG6lLRrbVKDYketvOONk+bjiG6AWO/ioFWcRepwpItUkACY3HgaG2ADtkSknWCzfu+zf4fvSZPXxbyCEUHmEfiRRIZwmES3wAeAyUv78dioEpHBxc1+PJfBB4FjFW/UvuWXdNg6EC3YQZnGHj3I4a/obhsdzJLL1LPNCxDfXwp2lYqIBroyvEovtJ5RtIZ5rMNO1XPZEEbpPjlxZaFF1BkOgeaxoApNhwVOROfZ5JeRE8rml5RLpWmTeOD0TOs8vu1Bs6oAch7sTBI53+34ynBjXxNt/ydtKMr++6UR+3bBg+AAfjwwAWbzrt6HHRUtN6hT2+M4d5Ls2vQT7pisS+8FGhu3u0r/4/CPq1bExz8Doz1mCgY0fPbRHAKS5hotQoc1alW3JMPinhWgTcajh+64mR5oX9TAuOhdda9rG+Ig/Q9uXRd0r5tmAI11lgX3ug67qZqpQuXPurL5Z+Lz3y+gCHcnOGxiKMcu1wd13Pn10MWjENDg1OBiYXPOp4QJK6gR4goVpiDeRDPUB7u0Sz4+A+/PmMqDNQHFeNnqFWHgxpDECuMnltBPUF/th3Z86rhXHnUtJidgJoWXgZ5oApwybBB+lVgWkWXTJRbsrf0gCBntjQ4="
+}
