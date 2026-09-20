@@ -3,6 +3,14 @@
   "commands": [
     {
       "version": 1,
+      "requestId": "chatgpt-domains-authfind-20260920T1849Z",
+      "wrappedKey": "wYDbdgkqtV6fLO1awvf3YQj3MyWvhp3I/aDVc7yHwoB184tFdNEAOL3Bveid9/qZ6B4VQs9ORni1sTR9WIval77z6K7wTEYEdS9+1n0d+NeRjjI7ChPPJzE1W3gdyATMlMAbKXapGuny8aDbtzWi/w6ea4i2exy0l67WSxDuKNOcsnymf1eMey9Qnukdywr3mq7qiuueTbHUahIDz3OXr8+/ElOkik5GFh1bIcj0E5gTc7fCleowGkTUmLwsU4yc82IeRKpyWLj1fXNwmEEM/QmU6aYnrtbHb48Pt1u5NQwlILthywMbdtqPRiQFiQHPN7CDdo/H3ASwFxyP8wTk/Atss8MSO2lPUbrKghaH8knsuEzWSw8XJFWzzBrt/jnGsuculRvAb2IBwN9dXJYpk7NhSMVevuld/kfz3/GH4N4/LEq4SOy/H2LJnHUCe23S+fIUVHsoSHJObtuVzcEEG9it2a0zuUBQ0WjWEwFniSlxKv7hYEWr36LVaEpe6550clZ7lIgLah2mnO3cZUQVLhb5A23vvHg63US61Jh28oKGOAVBZ+YFustUtsj2YpFvtypn5gt+O4S+xs/sVzhQJc5PkGtkbFg2LMLSK6I10kDkfI0HhTqxonv5u0XhMWK5f45DG/+9s/ob+UYIb35N8Qc8IaD1VP4cmV+ytDWjqxo=",
+      "iv": "GmVYEDv6edmAmI0b",
+      "tag": "gCP4kw+8CSJE7bG18pC8Fg==",
+      "ciphertext": "QwbW4ftl71W+Yc/4y2BUBE0wRhudaLNWP9ALgJO+/1sjeMZl9Ttysr84gWDwIVBQ+7NPBzP5K/u3aZcAnh0YDUN/qKwQLG8b1pEfFACdNJGWLfYZL4qFt5XnZhjv5YQ3RCs86nvN3CFvXsqWQCRE4Cs8hIl6YghYC7ntVzmNHCfFWC1XgLBJiHEm5K4h8mTt3HpCFBu9oK6VHBH8QgTTl2DP35G5ZrOGUfDldg/xQrRjZr4ceZQPCp8b9rYnmkeG9TSjuoeUtpSr8lGt8y4w42uaNemnzzqHXGSWEtRq3S83rMF0Klnu/vdd5P38GwWcVQeN0R4OawxlO4fV8NhIWWLrfMgtNwQXuRzUxYQRS8I31i0kJUlROyV7G5JLPk9/HJ7px9MV0J/UkaQP1JxCc2SS/cl8nmlPLG6ePzH22DHQG2g4MmwLzGT3S3TA0vHVUhtnBH52+4xiXSMGIv2RcYTq6ht5MkJSbxqucQGofZ0FyA5ioOwp"
+    },
+    {
+      "version": 1,
       "requestId": "chatgpt-domains-appsnapshot-20260920T1822Z",
       "wrappedKey": "Zemed/5Y9dCwkxAImwm9+EGXpjzDZjGBtIUR9OnjrfM7ylQ0cbjEnFcS5Dd0V9uUQ7p4PwZfUtQfhvACAoLe9rLqV44X6yq/LYEvpUZei5G+KEuLh9ybhbiLQcOs5QiZ3C4BxC3jWqUBTl5EM/iihtkH12JHiPH/VzKXzgbIOet54U0SjYJ28Wrrv5a/JYfbJrS5xEqFSfQiTH7bmjn3MgRN2TXKC+Pl5hv4/5jvnYNU/MT+qrsIhCAqCsOcXJj0WXGMPme8qmurNBdLqxjwoRCCH4lGyVGSunIwrR0x40UiTEkN3x7X6/4CJcTq9xoxKkpbvNIuC6dqMl3hnGKbcCvX+M/rwllu8PQan3SGhMji2xM4sBY+9KhAjht0kqLojB3uKJoo9zxqXSQKXfwK+vr/rvgDU6vNR5Okvy7hTAqR+Rw9QtyDmf9pwLgWnkpxLib5Q1ZM205fyA12dLwyLejpSX/kUbqPND1/sTYcRPMWvaPGL+IE5R1X6fRB7JxvUf7WjHcS/uVCNGXqGUKd8eHg2OdhzEJV+170iXNaZmVCqMOCblW5yWF/Pmi4AEhAL5v609U/hHNlr29djR1csufBpkp5q9eeVwkr0pd+l6Lfxgd/teamxJzF5zJ8LqeZP4oPVHCeANxdQkhgipKjupz2f+DvqKczNn6k+pcfDdg=",
       "iv": "7i0U/5oqhDkNnmJs",
