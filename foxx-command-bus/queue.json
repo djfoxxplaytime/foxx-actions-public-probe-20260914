@@ -3,6 +3,14 @@
   "commands": [
     {
       "version": 1,
+      "requestId": "chatgpt-hands-schema-probe-20260920T1924SAST",
+      "wrappedKey": "3C+ZKPWvPo4OLaROWOapRsG7cYH4kyoi2UIQdsoiJ4W7RvUk8/qWN0wEn0Vyd9wmehF7VToYih2AY0YKHUp2eTs8VRxw7ceNuYonsNnaDXoXFTiS4Ovkm9k05X2WdJVeGWrF6g8VZY8TZxUOLtyZyQ39dpcmmQ5l7vLyuSi3aEPQpAHCuX+VwmCUIxmNeibczjlbZoPSDl5OHOb9sd/neLju4x7AM6Jc5y7gzIOndpI4/Ae8iNRX3nwZHjWp4HFwVkUwCuHrT+nWGND9kJAPu7tSbRsvu4z4GfzX13AEXoJSUw9uA6b2B/5SnC2ycSz+tYJ7oe5FJt6quCj4NepHDCJr/rPFP4K3BXJFb5j/iQQAPgZDc/tmRKZi1wOajShw5L19iLz2S+jivh1jX4oZ7JBGPzQ4lx5+wkT7GfonOD3NkSTIic/gUWYWIeQNYkWP103V+vrWiPAtbvw8Qjpb9zt9SqH8itbrhiP6oq3dAAqNH6Vlzv7gP1tB4XNTT+3o8asbCS+uSZWR21nb+eQvWfZs5k+U2V8XBl3b6eD9epcAeRp19FhebhEdbnpKyNhgb+RTwv2/ZiB+IqfSbtPoQyNqBaM0D2T1UXPwowI3JrCYc8gABigPIc169RndzujSM8P1opONfhSoe9+Wmf2FNuqloMcCvPnQ7e6tehYIE+o=",
+      "iv": "T7puhxQ1k0DnMB5A",
+      "tag": "Ny/4g+zB+lxqDNkxfp3RuA==",
+      "ciphertext": "6Ql7pN+b8JftJ7cKhvB5ftf2DJUHBqJ3SEpfCPNYahy+y5AP6hO8ip1/IbcO7RqC5h/wOWTenQ5E2ZdKWKUkB1zy0lbOvMlXbni8p/wZKEH/MiV9OQFYp8AM"
+    },
+    {
+      "version": 1,
       "requestId": "chatgpt-domains-support-readfresh-20260920T1855Z",
       "wrappedKey": "nF9+jlZ91P24HzV0XumZU77kF0hFoMprJgLBmXrCLLursBMh11gIkVHx5GrnGtAvp6zNtLQ4r8HGVBTeogA+sCwg/svgWB8IByDc5XPevq8nQ2TWR986hoJIU5lfuU5yV60GDxXdtRstxYfsCzf2WS/owU49e2Ra++rrdcyqWmws6JOcmdEAeCLhqDIZa+bx4YXrPl9b/9yNmQNEuwMF92y12rEx+swnlpIcFFTdp2zdLEZP9qKaI8GZVCDwRdLGj9dGTCL175Fja2IaS2RoV9ISD0D5d/3fV8/GlGq5TK4c4o6lHre9mVyXqCy9H+zKudUamE6X/yF/KJj/6IPVMOUtCf8RbK1fY6DCNwJ/qw+UhILd8j4F5tfcmQ/shY9zj8lIyiQbhvhBtIYL85YAy5mZ7mREFUod6ryOjfk6/CogkL0SE9zkDXgyPg03TH7tPJpCHCUfTa9ogAu6lL9mkN/+L2hRqbPZSM1M4MQV79HBLNWpSw9cuyWt/lrY5cI10/wl4aRuJn2GKwaWXQt20yql9fDbiXWLUfYh2gbyb/Xb/BZJLGYy9/VzPe1Na/hb6qP9WnicBS0LZEutq39glH858NGWzzONnCknFnzUlUKGGzgWZ5qBO7rpKuNVsfxfoJrQbNfTjOHzbxEhube33TSSKhyuDkYje28rwDG0V2k=",
       "iv": "GpMdybHvSsQsZ9RS",
