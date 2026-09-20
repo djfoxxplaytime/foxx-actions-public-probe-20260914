@@ -3,6 +3,14 @@
   "commands": [
     {
       "version": 1,
+      "requestId": "chatgpt-domains-support-cert2-20260920T1948SAST",
+      "wrappedKey": "XtodQQU0FsQ0B6JEDD7wo93xucuCgklfzGyn2MrwdBr/2e8uX014CNL7NhcU1F3SSQu7WfYo9ggxmi2JDZqdqrScWXOWM1sBnnixYz7gLQvz/isFrnZ3Eirk5MP5xBE0VF1orZvr+SJ8SnEVcpntDTLN6+E+yL1u9hofC2W5VTM12wydktu40XgoX5bEWAfblgG4qLFXtzaTq5UqEa+RzPKUuL8JB550FnqHpVIHMl/jsGr0bVwi5+ms2qDUpaCUvHl3mjZBSaq68RgxwbjzLahbSctF76BLwfTjjuCMLFklVO3ASiU4N+ZN5fPfoIsWI+2zCedPRIRcSfK1CRqryWdHULDaJvQWWYnIkk0tzNW8cWMyy2VK+a7B8j1cqvbm5faVTbhC8opfNG2CiaydVg2Krxb3ONLeORuocnIShPxTZsHUvPK2/82ecoEZ+BENmod1TQWhT1Tbxusv1pV2npw0/Th7KEXKznKcbZS25EOrmUztxYSRzHnra2wkLZIXMS7PfyDvQTRVH3Bo4yV/brRD/2B+shLYnvum9QZyzXdoek3d4Y/4guApBULis/0tpdBqPSjAUlcufs0mX6JrM05jRPLwhQSkpa8pk2lU6T/OihiP0tRBRIOtiWC1O9QPS3wYnsOamA5mOJyNwS3X3H9kOvBAiCDPvN53EpJI9tU=",
+      "iv": "TlFsa9kteyaVctBN",
+      "tag": "o5IkKkseyZwwxiGEanQQag==",
+      "ciphertext": "SIxXyXIVZ4BGgqKzaOkGDC8DjXj1VTaNAMxNQ3P0HzA49ox7FCAXrJA2lLrXJicIW5vcODkcQp736s8aESpAnxX4VKp6aL6/YlazQnN1LaqpubYfiRs8widW4E8PgfRe7OlYdQlfWxQ/Eksgag/CwX/UGe8O5Yq/Pa3a5Hzc8annatAwrhLM+mtrctior3k7eqiKoCA97hzqci50WMV4wDHdlZsJWGQaokPGzZdlSb0mm7l6O1ugd0aaxHbKcpvB0DgAjD/2y06Me4ZAwxgG5Y5D9rrLtyjhJRVnxTTjZfd42NqojBOMUeV5nGULZ/GlbHS2NRi61fUBqYCk8a0nJ007KJl6vZ/eG3nERIuC7RF6Bzh+Tm5DcTrbuwJ4P/DZLBdT2FLjqt2rMR4q4r78LjRQRCZCSkkYM/tyzskpVWxGbl0abMzm5bPJFFFQHEMGAbefUSlkvLfl41VgZftTh0o65rTnBlikxpWqWH1jhMghdfz85nfY8YPQi43CSrghY2xG7nRS78d/8HtdTBmerg=="
+    },
+    {
+      "version": 1,
       "requestId": "chatgpt-relay-kick-20260920T1944SAST",
       "wrappedKey": "0sQ6GXOyLhIhWMNBLbEY3d5BFqQTpbLmCIMjF/SqI4v+o/SQtszOEjhrwznHl6Ar5kUIOEOO2Ehiqk5LwOFCKuEwrUG2fqHWplmYzkcMPpl/32kaeS4CC4Ca5mzG6DmNCYhJNybAt0i+JTVx8Qxr4bxZwZzdh7PqyGueIYnGTQpjnNHFyz91k5sFi7DoiKZT1vu/qKidtlk4PiDqOJwBAziaORNE2RQrihZCxQcYFgYq5KmpBy48/ERHFw9uPWyRYnERr47gLpHGzWyjrSmGlEKIBFzyLV7Cv7Ea8w6ALkhgpzjtaT1jzfV09P0xjsh6XWO4LZtiKK1VSCkAy7jnRzWkJGGmWvnofGPEKw8H2Twe1pqz8/SpEZUPep7IibdkMOOJBUn6x9do8Bgt+THfNEC6RHL6PNJMqVHU6z7BCSMnUX+9o4AWumXLHMBwRpyBDVFrF4Ybp/khMj64qmetEfo3Ckz88X41dO/HG1UQgSTtykeM7xWTpap2fUtaJJ+EIbF4qz6np1LZNrDAJqHQwopwlFpJywt6VbEOta51kiyFV6Vr40htnjQNcnzKVmFn9oIEW0YhmW88p0Iyh2VefdZdjHaYgSezkcm/pYPJQKTDT6wZpsScgezmCT8ya8Licf8mDDCesUEmdzxrpxs+w4+VHhjHxvsgHk7SwocCCZ8=",
       "iv": "2IEbyepU5vLIy4HM",
