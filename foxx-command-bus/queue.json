@@ -3,6 +3,14 @@
   "commands": [
     {
       "version": 1,
+      "requestId": "chatgpt-dc-cert-domains-snapshot-20260920T1709Z",
+      "wrappedKey": "rwRz3/0ih+a/zyz7qy+4w1wAAME7oGPJiT7JFUKJ1slZ+GeuQgQGi5npA1Nl9nG24XCTgI/Y1lEEM2wIbfczR2Z2/d68IDXCu/fnNfFZl4mLMjUwQvVs+9kaxvOioBIcY6J13CeI1T+kXhiMzCMBRS/7UiyiZ7FRsGhtXD8ZvDAjltiHIDHyWlLTm7ALqIj5NgN878kmjqlHS6WeEn7KdoRd7lmF7nZYNf2wVQkwi6ngrbQTATamRN5kzGNK7qdwt3mjozSNpaLWq8uQW8DuhPArscFfAloAUh1bVaQxZYteHrUGS0zslE6w4eRYxmStx4x5cgGbjGcAij3klzJGZyhWkYYd9T6GiuO0g9Ni9vrbY+7k40EsbSq4BGjCsyzvp5PfR06UAvEzmBEisaYvCpt2FfsAXmoh1H8ded8TW9diq6VcS642yaRA8cL0tJ6ft0rZB2sgEzh+tknb24F5SG2HcQrPeF6Xof3Gky6IalTrIfhhnh2d8VmVDuObwKVh42zRpFj1OHmV0jUQ7ZSZig9nuiUhqEPBRdgWZ4OPcpQy2MXvYNL7XTE6oyhDB9AWFSy7OJvaxguyb1DPGW60IqfbGnoUbyz1ObwXhvoBlLKilX7aUghufRZ8pFzTlXVG9HqTnuLneNvwN8ZFn+PL59GXPIa6cfnY+Se4pqX7Fhs=",
+      "iv": "eTA60tT43DU19rH4",
+      "tag": "wcKa869g74JA3ZBfnlBBWA==",
+      "ciphertext": "kqRpLnm6MK08z65BTl+4QDPZiMULZuJv+lZ5/oNsYbj8ZnM799kMKuGRM/s8yymMXHnoqy+LwvvliVICYKwSMOiuQntNSaLacooWQn7uAFoqv/VbXhDzww8KLYWH1cI32U4WP+r6PiEiMxlKU7dFR+ae/jjek59+ANf/vXngZ8afE0JNTix7t1f7v61f3q1nzLlqY+lqM6KazPPk9yk4pDuLFnoDbrJQIhRYQAgbTVlTpcfHyVUoR4r7TQW94V5tP9BRYjjo5sEl1uaYPDlabkisYsCYrr9rvUH8uQpzH/Jw4owlH3kMFnzHD6VdhpG4Es7+UGoZ9Vu786cH7BF3hohlddEPNCezNSlZnMeUXzmKTMhOhBqdneotJlLJcWOcOxYD9ZUEqahep2p7jSlzp3kKmpsU2NUV+89FlllUs85FC/AAnpMaymLQnsLZLCzw+hWGfEmIKyjcxXUC4oNfIDfGO2OF1OlYuXyfSjB23TTy06mhdryga+wV2V25JX5A7pFHSRuea4me6+g="
+    },
+    {
+      "version": 1,
       "requestId": "chatgpt-dc-cert-liveness-20260920T1706Z",
       "wrappedKey": "MFGY4t55etoH9LEnGpDwHHRzUwFBUrxrkdGNwZvQQxHztlIJUQmqEhEV8RnT3PZUiwOWaAOvWcSN9mNuRdmVfj44L0WuZiqwmd8BIY9zBuVxtl2tNr7E0rCfVgD4d/mrw02o6AqQ8euraOhiCmnbjh0CBp5TtM4+7cML3074N4qoz//jlWSNVkcAf6vA341NMLm/HhYTjC3YyEZhaCPOxoOSaD2DmsbMztiotdM7PfkqAkSSTfgZCfhu1E3lBhycB9GkvnWfIn5cBvt2QPazvrexZwIDjnSrUXpJnB6pBCYmH8U0HfJxIeoMy4YHdW+gQvBo2duXDwNuhle3LnlT7XSbfL0p+Dp/mU2/UssoQuGdyJ2UH6QovX9XG9k1vUlYZ7gyl+XqHr8qqrLf2KFV9mUOcuAF8tdcQ2+oMdDIo2usHXczm+Ch9NAjxd4XuSNQl1de4Z6iR5HUPqWbmEScUMFL1kswUPAZCaGFs9rA5eq751c0Er7U/EragG0SNyInkjh0zXBiUjroJtQLbW8iymEKw70wuQMY+bgJvcfHBwCw5e4IjMaCtrZ6NH/T5tqS/MQn09gBNfN09t0LBAgQ2AF2Dd2InfBHwtlWp6P1495U1VBi4Fz+Tt6gGP4Xmr2lJcT7+SAmTQSnU4Ane0h3617hcl698DvlUTERo6JZuHg=",
       "iv": "u8VkEOHw9IwUk+Zc",
