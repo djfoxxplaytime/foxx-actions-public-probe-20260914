@@ -3,6 +3,30 @@
   "commands": [
     {
       "version": 1,
+      "requestId": "chatgpt-cert-cpanel-find-support-20260920T2100SAST",
+      "wrappedKey": "i85o4giO3d9BAW/ozkRzYHPKm6K/Yfnjla4qMh2nZbzihCH1aRHIR3UKSeqIIXYdk4RIW0gulP4GqRbP/iuOERZUNyhZTs1dvDmM2po6qmkzuwDZyOEb2ttHjqKWrbutf/b0uU6jp0iDfQ/mFK0ixLnqDoXFZs4pEhoaedGzoMfZHCyCqEwkwedDdk+xHFbJnl+maLI2xDmC85xe5Ywkhvw45KGoAhzAxBNWSuETHtjn+NgEGM9QfpRen6R38uQA3EgO3i9aDjT6QmuUMpXF0owLnZk+TQe7D72wrje4tkNBzHY4FE+HlZwihsKCh2JsHQXgjeRC90/a+BPlXsWTrx7FJEVTKKAEWD2JqkmvNHdiP9U6oDM8L3hfKyxPIlJ6SRaJsOr3HYiJ4ikFMGyhoS0SI+s+5FZNs8gVVNo5Ez+aDswjTXzwSiUF0c6edg6pX6gVT0bewfYRQoAIkBc+rgdOQTQIULWle1dY1g+V/m1mCjqo6KU3tRFks5LutXQg4TfP2u2xH1Tk2lVwpiDjwfOTur1KUkuK5O/+ZksLWivFF0uaiS+9P5hFbJjX8Xf+EvM+EVBY/KIQ1bO2k5JqZ1G1rQOB7tj2a04GMayt00+ieubgjGxYeG0sTVNuWk0QoNUCg5CS/Am4AB13GJfxksduigbJkEHggy+CDtCYatA=",
+      "iv": "Ksbe9B5KJescYEpA",
+      "tag": "wpTZWVWz82ZiTr8W8GkYsg==",
+      "ciphertext": "ssRFxPtaRrcoKmkUXQ1rR5iofGihri6u9c/fYkJKFx0H/kDLzHRPWYtfbDfPtHmOasT8Jua65PZ9+/0HYK88S8cfuV+NhmCdy9BfymcOv04V7eIu7bhLJQCD5n5hG6TIJfz1DsulRsBpQuY5/mDWNtCQx7l8U+qNpu1T4Sxp4GQvnqwVb7rMv9cUIeNhfbdJlQJKjFHEsAoMd0EfkpdxUO7Fke7SexUCBkSqc+CWbrjFTCahASSz5JTk8SGQnlrQohG8LYsLTOhxwrG1MmUpzRUMlxQwc/nleZVlPGHSq+HMKXmmUzoTrChT2FkKLXyyc5gUpOn2+d7FjbM2zJb/0FgYyg84RmOIrpLPNSl7XHY2KvVqsdgoMjTIzZNFFgYk44fiegHfasFWqvAlKBkwQhAFU+14HCKm/jWInO2Iky76tNSXrugX3TdDWz9Q5UmWcZWt5b46xS1mk8fjMBFkagIaEv7iht1KwPTanuG4sOR+9wbVP1c008c2SpWGTHPyBJTZEefmd9RRksh1L/yl5Qgp5Z0="
+    },
+    {
+      "version": 1,
+      "requestId": "chatgpt-cert-cpanel-find-forwarders-20260920T2100SAST",
+      "wrappedKey": "WUL1QkK7thBEHT2m6KrnVeljO4fcNHbpg829r3iyKtlxHrm6qdImLYeXvqBdBaURbs3VPPXQmp3KO0wPTU6ZXpDiG/so0KpLhFP8H5ZVoeS7jjO/BAUsfpLNV6bGe+S2YQ8BvMrxmgDeqk3F13ONV3auhoB3dDhttJ9YHTX9FFtiuTY1YvrHedRB7iU0bB+N8sDg1AHr4PAjstsD8Mla1ZNUeMKJmHUkSx0NlAr3Xf90IB4Wlqy/R1+mRbKsjaplIUf6lTPKay4M33BnwDGtrsDYxk4R+pEyw/IwN7OitEaQIszUC3RmponDTgtgiEOwayWY3tjFb0w6MbYrV+FvQkDBUfpvVzFLzdF2OAwha15+SdSPtLNtpQVJiql9v0i/OIHLAoaRwkAAUcnZpinjzhJ31t42umud6RR3FMti0UxuBAmyJT9cbrXBeiz59s8z3bb6TzcnxgkMgVBja82QqkWgSCfA8f0SCyOhWG5Hl4Mii4lDrQLaXiaQMArixq8Luk28T3muzXmYC/Tx04zsNSLxfe8fRK8jhx0KLpb18y3O8WynkqzeUjzVf+wnI759mlnx0bv6611vDulK3I4MNxqBgiDLNQm0qgz8Mn/U+e/gkCsttCAeCo/ZuX7fPu6c+MXk48h+ikVwiV6wtGScKsI1CsQ2jvhqon5CrCbiPzk=",
+      "iv": "w98SXqHJ3YKxVoWp",
+      "tag": "nDCX+ykcvBa5O5KZM3fWBA==",
+      "ciphertext": "gbxAcHO8TQPuTrnBxrjfcDKJLZnhdCXz4tDcd+7X7f/xgYZtB5UgLWVmKSLGD0d8PiBRVa1C/hhLksMCn0belgRBtgV1ZonIaNj7b+n7k/tUdE4HvnfNwLcnGMQTFh8hCqNOh1ncXAoyPGsj/L1Dq6Y5OPDbYKW3PAGeYlN0N6PqPXIBTIzObfP13jhHKr+fpCGFb0a71cfTc/s+d6LtbNYtrrwhxOFOnI34YDJ0M0/JkPMu2T1ho+vQnmaCzPcb4lJx26CgeOH9lZ7aCzCXrSaC9KR7V3KAU0QPRZcKt5CLcEQSEc2Jwj4wU1JWrNjjKoU9wRB53EQQKVMmrXjeS+T/o6JAFwmoqs4YGJldW4TJPmP9zetGzCSkgNqV412tFFhyNEBRruGIEWRyOyQIvCUebcwutL6y9m+jOFll0VIkXuhHK/He8ZCTRa2uzPw3yJahTKANFfB9gioFfx38jhjSAY7o3MHUOEbBmdKpZVj+DtMPp8gX+2dkIANTXa1HKk6eiQMCgC0T"
+    },
+    {
+      "version": 1,
+      "requestId": "chatgpt-cert-cpanel-state-20260920T2100SAST",
+      "wrappedKey": "TtmWv0/XhLK7oZWhvuwWxqBmP+NB26yS4/Ev6AR2z7UfQn92ZULmxmLwYy+584MvjnsppqRNHyZh4lyjDbQzWoiQaM1KCwQTPSNOzasCHTAIZiKX09yCCeg0q75TODxOo6j0/Rwtq7ZJFiO89D6txbXB7ELwu0A3Dg4dLofzgcb7YXC6Zb1yKFcd/iF0/nNf+N5BmQ9RK8CvdOWbcANWrfNmPEUA30aYJM34o0OALpmlw+rcXyvnAAmcyt2jjpIAirm4u4rBkv/EddpXcrouSAvJGKbryJhrPKBqGg5FJ9rLErbDFsG1n6wDY8rDwGPqH02P24EivojgZxMC9JXplxI+v1FDTiFUuUmueenG1RSQK/JoUf182TfdIacpjmLo1ju+8u1L2zIJDlIU7sSueUlIwU9pQsgifT+AaC2leP75fm5ahXTOEohpNazfxqPYdvL2hCovP6zOVeFKGUvieBm9XewpD3U/wpgnlf1jJ0LY0Owt3DdGjbXSjDhGTB8p2yBKgnEgo9Ny5S5W3S+3VVXhN8nbiDZP5szol1AZ3pKzLfY8yPsjNU7/7n6gfBiTusGZscluza/F8N3iUX0/mYMO+WMcMuFlAGrFoYQndJhZ640nFQ2NmEIa6c+6bLlRyzrYm5XyAK3MPwAZza/uCSNGJXhvPDNciR1+N/fJOTU=",
+      "iv": "c+FB2phC8pV+qjXS",
+      "tag": "3d/LdE1uCvrpBOphOEuluw==",
+      "ciphertext": "MjJa0AfmXtma/VvwRTDumFPnTKNcPzws3z6F0bKGjQ/EAUS0rFYUyeKUPCRt6sdrx5yoHqSGAVnUsUsTAmm0ohlKNYe4G2p+1tdiXBZrdeuTvdAfcLPSKPXj6+ROAQoaxCn76ABZV1y9l725ZgzYhrT4FCGdTKJik39vFYhcSB2SMxKErNGzWQZVlBqhkmMCJiRx4HyQTSlCsNwS07Vb0LdhF8RSl9dCj9G5A0S57a23rBlQnDYLSGRwJn3BTE0V5r62ObIT6Z9WHBgs/gkhm4MAhY/EfcbEuoMDNroy3SMEShKch0PlOxiX2I3TiS2cAWKzhwRHSdrw8qATp/1pcH9hknEmPejDeoN/N7/ThauxVCvCvagm7px22hlyHoeOp6tNJz6qWmgC7iqLu6M+CjtgbzWoz6fMXYXfeC23UnXztZy56MMHg3ocNKhwKVi+NKwS8ID8F2JRkWdnNA=="
+    },
+    {
+      "version": 1,
       "requestId": "chatgpt-cert-select-cpanel-email-20260920T2057SAST",
       "wrappedKey": "nX/IA5HQXht9Blenhk++rpIKcQ3oS/oBvFBZRT5ky0enC1ySmZY0e37ZS4wpbFrfuzqq/37kmd7raa0AKBT4BsXSI8bL/OJWXVHRGh+m1v0NAI0Dh+mZVn1OzTqJXcEkCMpNa/52PYi820qTO63MfbIlAEWIsdTjJ3I1p47qUTThZd3HsneTo3Z+Qku4TpOTEzXdEhvKbNiukpYvtXYPb7nqgaUHrJYKO6QXeb4+QkNkpCYXDfje3up9IqK0iedTywKKwVUBcKh+RQxeAsgD/n5nG35h75nJGE1MFmlTrjWg3x6CDx90N9PAEFMK2Pgu6xCsu/uaL081QRp/nzb+vZ2EDmit0PEOmMZCn4qN0X2NLniE3rPw/ZJOmvHPw+nbicB0MjEc3JT4U3jvNpIiPfjB25fDrxtouG0eeDtLdtJk7YBui4BTeLxiozoXey2MKqacGGhH2KYDfzVHi3Olg5NN2inNMvBXdzUG+fqZ92pR+Gv6CwKvaeS9d5Yb6t/l9Zf91sY7ZQ7JAMBcgEo6BLNl5kG++1ZeMFkDc1ulUPLUS4VByM7njIT9a2v8ZQ8WZ1MNy31un6zQ6eeCNtUVlMTX8ZHWdP6MeUbnypNDFgTcFsrr6WVCN/ZSyzI9XZucPqzo+29dw+OflU9EZd864K8r9oShG17q8qCxcy+fTII=",
       "iv": "x1JE5tp2w7mmQF3a",
