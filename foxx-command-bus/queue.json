@@ -3,6 +3,14 @@
   "commands": [
     {
       "version": 1,
+      "requestId": "chatgpt-dc-cert-domains-open-20260920T1702Z",
+      "wrappedKey": "IC03XV3SZIrz05DaxB6faeoQf9mMQd2PzFbTaQzbnx1UKjVKrCG7gYs4APUfJJ5fE0OOkkuEGUxFJMqG/GWRKutp6AQuSMEchu5RAGWofu0fKLr9ZbZmDCgMW2wyYQNG6bwCj9slb7r3SWngVMrcMZGwxemZF+FYZW7CvPC97k2xAHASLesLilaoM1UNsiGherUU4ufV83HOCoH6PX9Ty2ell70M6zlc8v/tb42P46sWwDEsolGS2SmRBwqcIa+IEMAYZjndpS2bLOsHiAZJah88x7CZJYR2rHqVvA5Wk7ihMj1/uVkG3INMzbfTuqsW852yI5scfU2Q2QXQS2NESHGjBDG0UGdsBzfdrmKkhmCoMv+tvR4oCZ/KN5K4jBhGHU1fmHR/6fFQmhE3ky87a1NS+Hrkv7Sd4WbU5y1Ysiv0ID9xPyosMK9TmlyViYrAsrciEJ3qgTkxczmnLu8uTJS/emD6Y0+gsPPre+F/WKVXiKMpZ2psa/W3Vh3FkK2KIY7Tn24+3I9uOZRgo8DBo/JWm12DGXiMXbe1CvLNnr7OJHeNE8uCl3lp0Ec1inVzTi/6Aq4UIOB0Wo/2oj4qyzIyjqtc1CpxVh3OriBOcPpFj0EX6hoYsDHKlmaKHHaH0WJQnpr2cMGyEtLIdmrtU3BoQ/Sl+UbBSXv3hOKethc=",
+      "iv": "Osqw4y3/LWP2uZ8s",
+      "tag": "b34OGgWh0h9Cr6xJM1CpVQ==",
+      "ciphertext": "RCWmQbgFclpb9cfsfMDxwKsdodHOJG7+vTg4BzFx024gsJu2m7qdcyGcNSJII9HTbZACEFE2c9mk4AIjinzx9ZKuaT5E/JWOLomYKq3+sHlkE2vt7zBm0PuXbkoH5w45bz99nJj8DNcJmCH4QW35IBIo1seEME9tOmYsrreorkOwMxsWGsxV0d0ZfWpk9/1UOPgSr6sY37jtZfVdkYoDuFmBs9iQNldEfmRzhabo+D5Q+AiauehRHnHFQ6oysbSHhw55se34yQk4gZsAwtQvp5N53HCj+h7nvdfXK/g5Q5fPwH8phKylADAgWt6RtiJ8rK8g6bT8k5RScrB83OEvjiJZ2aa11f/65tsfgVv69q3BVJ2beqIyPQNEKOtKu0PM4ms3Pnyu86InyBiHjXSpJulmlVAWFO3tS4dTMllmJRUrb0ET+fcT2qcbMjME0CmDCzGJW7gYOmgWUJY3K15OVAi4FFnvaWzDY+gFFT2qJANNfrkGRmIRjucw/rnxPtVJxdNdZEuvMV1vJKPkCYgaqGkqorqB6rSL8CiLuWXtv0qOKA=="
+    },
+    {
+      "version": 1,
       "requestId": "chatgpt-dc-cert-state-20260920T1658Z",
       "wrappedKey": "HqBaYgbrArXqhcbwy/DFEfwGerkStvwtX1Cwa+1uzB0aqiuGO7hpTRWKf+aOFHjibyFeVuD2hW8QmRnk37cbVf08horWdPoXe/XKRW3EQ+U8JC+BsxC1MAST2BHq80qMMGIgEK9vAUo82dZvxw20tnbpOYWZY8IV/31hXoa6pDoh6gxrlEjPiWtO5j3Ir2zTABSidEERGVBYE+t3Isas241nXDmuo79tZRRUgedv/pQ2+/6OlW0N9XFLcjE++Tol4K6bAWhXrDwYPBBG0ZxuM3EHv7uJ5tkOqNWqctIZGcypgECUf9ahYTGye/dj/gGIebLwib7+OFDJeFdWjfoPTBe4dr9NVpZ8vm+QSehs4RcXeKzAcecUqnHG56F2yLITOWIG4yNXVJBYLp2GvprZwk5PfFOsarwYd5rJukQQvJX/sOvUWRIn1pQRgUIzex7FLemG6ec4UWEGRvZmlEo+7ftPdMyA7Hwwc8Etnu0CG93Ldo9sIE5xL5Cqh3g+Frhz1P9spXAmInUnkBhm2NgJAKK7e/qK618E1fjxLmEGYFfF32H+jD9vZFcPCbpa+t+BwSpXvFoNj/WLVKriBxp4bp/XRn40164fZ4iRhH5kb/3hw5owmfOLIVrPEPGhLZQgXtXTwiuleg6OXOeh3mior1Rii1SY/VVdAVt0tosvkYw=",
       "iv": "3fsl9oltO201TWfo",
