@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "algorithm": "RSA-OAEP-SHA256+AES-256-GCM",
+  "fingerprintSha256": "0d563a377f10ab8928986590ffe4acc073034550515012c74cb5271aa6e01e93",
+  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA5yxninp3DtZqDXL1/5DP\nHI/JRxyf7CrNfbSGa4F0+xrR4HRQb95IsKs5+owsoy6TOVBTkmPrTTT9cSydwZyT\nOX5d8vfzuMbLEevWBNNqFmXvf8BwJJVNmEzl+02n7WsyZMITAXzXhMmFOeYCs+6x\nNnR5IonRI6z0rzxc3Q7XPljgRgGfLdJdu9iu4d3pJwKfBAvo0teTnkJBJgvUK/Vf\nDCRcxjE+yGBc6nDyLBL6jtxNi6C26x2KA5TwTT/d/kvvfPjl9uvwQp4hwOPtxyXs\nqC+jqxo+mkSdXrTYuped6lL9RCKbAm92JvzkMAtqe+IV2Xl3Wn2Ue9/AxtqHzKnN\npJf8vJEkN3EGALEmkoLyG1Bi/SmBwVHbw7GFsaionGdiEv8d0WztFYuBcremWjX8\nd79lvpFk60LtowvZ9lDBZtTtKbOlaqf82j7gH+m3+4zrzOCPtIjMbcXJykQE/Zy2\nGGwXejQJbUogieAQqJO/Xp00OJS8SsZO5UPKbUaiqC6ldsayvmyaocvlQocor6/x\nljH5zSXRI0LglPwr9RGRyolTzxOwSNHr6lskn6Hx3/Wwrfw45V+VgJVGo13Un1XV\njWhjCgzrzgtlIUFmlgdW6hcy7vYyCG7JUCdberiQr5pOjYRf71AwddHaAUv+Mjkc\nX2GXvOWbqtbuQnj55FF4PoUCAwEAAQ==\n-----END PUBLIC KEY-----\n"
+}
