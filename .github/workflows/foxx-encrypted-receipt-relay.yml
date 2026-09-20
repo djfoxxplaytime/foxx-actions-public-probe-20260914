@@ -6,6 +6,8 @@ on:
       - main
     paths:
       - "foxx-command-bus/queue.json"
+      - ".github/workflows/foxx-encrypted-receipt-relay.yml"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,50 +18,43 @@ concurrency:
 
 jobs:
   relay:
-    runs-on: [self-hosted, linux, x64, foxx-sovereign-relay]
+    runs-on: ubuntu-latest
     timeout-minutes: 12
     steps:
       - name: Checkout mailbox
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 2
 
-      - name: Resolve new encrypted command ids
-        id: ids
-        shell: bash
-        run: |
-          set -euo pipefail
-          current="$(mktemp)"
-          previous="$(mktemp)"
-          jq -r '.commands[]?.requestId' foxx-command-bus/queue.json | sort -u > "$current"
-          if git cat-file -e "$GITHUB_SHA^:foxx-command-bus/queue.json" 2>/dev/null; then
-            git show "$GITHUB_SHA^:foxx-command-bus/queue.json" | jq -r '.commands[]?.requestId' | sort -u > "$previous"
-          else
-            : > "$previous"
-          fi
-          comm -23 "$current" "$previous" > /tmp/foxx-new-ids
-          cat /tmp/foxx-new-ids
-          test -s /tmp/foxx-new-ids
-
-      - name: Collect encrypted sovereign receipts
+      - name: Collect missing encrypted sovereign receipts
         shell: bash
         env:
           RECEIPT_BASE: https://foxx-hands.206-81-26-161.sslip.io/chatgpt/receipt
         run: |
           set -euo pipefail
           mkdir -p foxx-command-bus/receipts
-          while IFS= read -r request_id; do
-            test -n "$request_id"
+          mapfile -t ids < <(jq -r '.commands[]?.requestId' foxx-command-bus/queue.json | sort -u)
+          test "${#ids[@]}" -gt 0 || { echo "No encrypted commands queued"; exit 0; }
+
+          found_missing=0
+          for request_id in "${ids[@]}"; do
             case "$request_id" in
-              *[!A-Za-z0-9._:-]* ) echo "Invalid request id" >&2; exit 64 ;;
+              *[!A-Za-z0-9._:-]* ) echo "Invalid request id: $request_id" >&2; exit 64 ;;
             esac
+
             target="foxx-command-bus/receipts/${request_id}.json"
+            if [ -f "$target" ]; then
+              echo "Receipt already present: $request_id"
+              continue
+            fi
+
+            found_missing=1
             tmp="${target}.tmp"
+            echo "Waiting for encrypted sovereign receipt: $request_id"
             ready=0
             for attempt in $(seq 1 120); do
               code="$(curl -ksS --max-time 15 -o "$tmp" -w '%{http_code}' "$RECEIPT_BASE/$request_id" || true)"
-              if [ "$code" = "200" ] && jq -e '.version == 1 and .requestId == "'"$request_id"'" and .algorithm == "AES-256-GCM"' "$tmp" >/dev/null 2>&1; then
+              if [ "$code" = "200" ] && jq -e                 --arg id "$request_id"                 '.version == 1 and .requestId == $id and .algorithm == "AES-256-GCM" and (.ciphertext | type == "string")'                 "$tmp" >/dev/null 2>&1; then
                 mv "$tmp" "$target"
+                echo "Encrypted receipt collected: $request_id"
                 ready=1
                 break
               fi
@@ -67,7 +62,11 @@ jobs:
               sleep 5
             done
             test "$ready" = "1" || { echo "Receipt timeout: $request_id" >&2; exit 1; }
-          done < /tmp/foxx-new-ids
+          done
+
+          if [ "$found_missing" = "0" ]; then
+            echo "All encrypted receipts already present"
+          fi
 
       - name: Commit encrypted receipts
         shell: bash
@@ -76,6 +75,6 @@ jobs:
           git config user.name "FOXX Receipt Relay"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add foxx-command-bus/receipts
-          git diff --cached --quiet && exit 0
+          git diff --cached --quiet && { echo "No new receipts"; exit 0; }
           git commit -m "receipt(foxx): encrypted sovereign result"
           git push
