@@ -3,6 +3,14 @@
   "commands": [
     {
       "version": 1,
+      "requestId": "chatgpt-cert-select-cpanel-email-20260920T2057SAST",
+      "wrappedKey": "nX/IA5HQXht9Blenhk++rpIKcQ3oS/oBvFBZRT5ky0enC1ySmZY0e37ZS4wpbFrfuzqq/37kmd7raa0AKBT4BsXSI8bL/OJWXVHRGh+m1v0NAI0Dh+mZVn1OzTqJXcEkCMpNa/52PYi820qTO63MfbIlAEWIsdTjJ3I1p47qUTThZd3HsneTo3Z+Qku4TpOTEzXdEhvKbNiukpYvtXYPb7nqgaUHrJYKO6QXeb4+QkNkpCYXDfje3up9IqK0iedTywKKwVUBcKh+RQxeAsgD/n5nG35h75nJGE1MFmlTrjWg3x6CDx90N9PAEFMK2Pgu6xCsu/uaL081QRp/nzb+vZ2EDmit0PEOmMZCn4qN0X2NLniE3rPw/ZJOmvHPw+nbicB0MjEc3JT4U3jvNpIiPfjB25fDrxtouG0eeDtLdtJk7YBui4BTeLxiozoXey2MKqacGGhH2KYDfzVHi3Olg5NN2inNMvBXdzUG+fqZ92pR+Gv6CwKvaeS9d5Yb6t/l9Zf91sY7ZQ7JAMBcgEo6BLNl5kG++1ZeMFkDc1ulUPLUS4VByM7njIT9a2v8ZQ8WZ1MNy31un6zQ6eeCNtUVlMTX8ZHWdP6MeUbnypNDFgTcFsrr6WVCN/ZSyzI9XZucPqzo+29dw+OflU9EZd864K8r9oShG17q8qCxcy+fTII=",
+      "iv": "x1JE5tp2w7mmQF3a",
+      "tag": "vRLqJnZMl2G4R6AcAOmdew==",
+      "ciphertext": "RirSQ4dvycLgEmkuM05ehrpZL4KFAYH8rCqRJkZAAV57Hoyaiy/l+DRifdQyGpWixU1djBqgdbNmHBCKSLnxb62xwhhrYupniVTc4kIIjscj+XkC+itfjeRsEbpUpHEL+PXXENmRUqQGUzycjmzh9P4APJFYEX6h1O2NeZcpmGnelnDA68IR5q02tnGJqzQy0Dc5ywv3KQi8/5J3/NMOXXWSRzQw6ZhDH7747MTmwTxQrgMLZxeb8hOpPgrPD9eYW9qpsaTrWlzUX5wFRPzrWJKrawUYslQyIjMa8IH7SRpGGGLFJ9TNIsmgnobgy2gWKe6p2IBjYI18NMOqKtJ1mJFUA6IAMx+glrSWYYlGZY7GYM8o9iFaBLaqlgA87aJi/bqyoAGEczOhGCAtKYY2lPb8BJV7oUNCX8viRcZ5T2Kegumv0hMjJNZP4qa2VigCATA4yFS7Nug5lOD/SKUZtCFfDBVDgrL62CKzUq94RbJSyYc2mSqjSOE5RZuikfzzcz+H4chB3t2BCJpXA1gYQ0Vbv/x3Xt+fwg7yrbcufBEEmgxyQYc="
+    },
+    {
+      "version": 1,
       "requestId": "chatgpt-cert-tab-gmail-20260920T2055SAST",
       "wrappedKey": "Ohr4Cm++6WQmwrxx12fdEXNRVZhh9JO5d5kPBQBsiGjfNazVRgbxvwEBee2yCk57uoLteCsSggdDGLdFxuhkN1Hsql27fRLy/RWyLlZcZ2cRlHefnmOgfxcEWXdDxSCA9kVfpWQHnY+ci+RSbEGPYW3xAzUYnhUyu7qwPXlROE6mhUHLyVaUputxVNHlpiuDpjuI4cO88kv37fOutQCGzMsvOZvLoO45jO1qEYjquti20LqqxPA/W3m92cKoct1Rh8r46lrsCDPAKTg/bTcxuJHoLDkWrAfC2y9tNRRME5bm5RJ4wEil4PPSXTSylNT1VJW2tQW3EH4L3QEbbD37Pxd2G6BZ56WIxycic3iLkNxRLrpCguTSXM6MWxiE6wF2Y9E266fw5puFA/J44OMlWyLiFr8qcbfV9PeeKpVD/ACILuybGva6LjRORBwNe9Sql9n0ofv3xa2vz5KqvGxkNb+DIekmXLje5CTFdu7uSrY7jMQ9g6y6YVYbYGrPZ974WwoIOijEPi+XJEcA2zR4p0qghhNx1AsDkcbLcYmVxg3mSQYUaBHjck7WYkDwUD6F9cZyoSJAlP/zBs/NwzJ8r1pCxSl2LpkSLGpFW2Li2DUeb4ic7p7TyBqebTEGknNkfB5/GMzgJ9CZnDopxZbcPgeAoRRkLMojMKfd3lME6zM=",
       "iv": "wLXgHps9Vpvlotkx",
